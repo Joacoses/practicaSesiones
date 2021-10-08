@@ -28,7 +28,7 @@ public class Principal extends Login {
         if (usuario.comparar(usuario2) == true){
             System.out.println("Funciona");
         }else {
-            System.out.println("No funciona");
+            System.out.println("No funciona lol");
         }
         System.out.println("---------------------");
         List<Login> almacenamiento=new ArrayList<>();
